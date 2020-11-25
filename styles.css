@@ -1,0 +1,11 @@
+html
+{
+    box-sizing : border-box;
+}
+body
+{
+    margin : 0;
+    /* view port height, this makes your browser to be of full height stretched */
+    min-height : 100vh; 
+    background : dodgerblue; 
+}
